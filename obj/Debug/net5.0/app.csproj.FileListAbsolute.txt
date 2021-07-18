@@ -1,0 +1,16 @@
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\bin\Debug\net5.0\app.exe
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\bin\Debug\net5.0\app.deps.json
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\bin\Debug\net5.0\app.runtimeconfig.json
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\bin\Debug\net5.0\app.runtimeconfig.dev.json
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\bin\Debug\net5.0\app.dll
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\bin\Debug\net5.0\ref\app.dll
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\bin\Debug\net5.0\app.pdb
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\obj\Debug\net5.0\app.csprojAssemblyReference.cache
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\obj\Debug\net5.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\obj\Debug\net5.0\app.AssemblyInfoInputs.cache
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\obj\Debug\net5.0\app.AssemblyInfo.cs
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\obj\Debug\net5.0\app.csproj.CoreCompileInputs.cache
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\obj\Debug\net5.0\app.dll
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\obj\Debug\net5.0\ref\app.dll
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\obj\Debug\net5.0\app.pdb
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\obj\Debug\net5.0\app.genruntimeconfig.cache

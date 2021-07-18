@@ -1,0 +1,16 @@
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\bin\Debug\net5.0\finalny.exe
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\bin\Debug\net5.0\finalny.deps.json
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\bin\Debug\net5.0\finalny.runtimeconfig.json
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\bin\Debug\net5.0\finalny.runtimeconfig.dev.json
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\bin\Debug\net5.0\finalny.dll
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\bin\Debug\net5.0\ref\finalny.dll
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\bin\Debug\net5.0\finalny.pdb
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\obj\Debug\net5.0\finalny.csprojAssemblyReference.cache
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\obj\Debug\net5.0\finalny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\obj\Debug\net5.0\finalny.AssemblyInfoInputs.cache
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\obj\Debug\net5.0\finalny.AssemblyInfo.cs
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\obj\Debug\net5.0\finalny.csproj.CoreCompileInputs.cache
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\obj\Debug\net5.0\finalny.dll
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\obj\Debug\net5.0\ref\finalny.dll
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\obj\Debug\net5.0\finalny.pdb
+C:\Users\mrnba\OneDrive\Pulpit\dotNet\finalny\obj\Debug\net5.0\finalny.genruntimeconfig.cache

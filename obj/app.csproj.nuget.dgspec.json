@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mrnba\\OneDrive\\Pulpit\\dotNet\\finalny\\app.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mrnba\\OneDrive\\Pulpit\\dotNet\\finalny\\app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mrnba\\OneDrive\\Pulpit\\dotNet\\finalny\\app.csproj",
+        "projectName": "app",
+        "projectPath": "C:\\Users\\mrnba\\OneDrive\\Pulpit\\dotNet\\finalny\\app.csproj",
+        "packagesPath": "C:\\Users\\mrnba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrnba\\OneDrive\\Pulpit\\dotNet\\finalny\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mrnba\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
